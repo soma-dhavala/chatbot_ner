@@ -21,7 +21,7 @@ Chennai,Chennai |
 Shahabad,Shahabad |
 Karimganj,Karimganj |
 Sahaswan,Sahaswan |
-jaipur,jaipur |rajasthan |
+jaipur,jaipur |
 Guntakal,Guntakal |
 Dhamtari,Dhamtari |
 Savanur,Savanur |
@@ -40,13 +40,13 @@ Ratia,Ratia |
 Reengus,Reengus |
 Charkhi Dadri,Charkhi |Dadri |
 Varanasi,Varanasi |
-chennai,chennai |madras |tamilnadu |
+chennai,chennai |madras |
 Sugauli,Sugauli |
 Lalgudi,Lalgudi |
 Sidhpur,Sidhpur |
 Tirukkoyilur,Tirukkoyilur |
-Sadri,Sadri |
 Tirupathur,Tirupathur |
+Sadri,Sadri |
 Port Blair,Port Blair |Blair |
 Vedaranyam,Vedaranyam |
 Yavatmal,Yavatmal |
@@ -293,7 +293,7 @@ Madikeri,Madikeri |
 Tiruvethipuram,Tiruvethipuram |
 Sirsi,Sirsi |
 Morvi,Morvi |
-Uttar Pradesh,UP |
+Uttar Pradesh,UP | Uttar Pradesh |
 Tekkalakote,Tekkalakote |
 Sirsa,Sirsa |
 Udupi,Udupi |
@@ -1203,4 +1203,457 @@ Aligarh,Aligarh |
 Raxaul Bazar,Raxaul |Raxaul Bazar |
 Silao,Silao |
 Lakhimpur,Lakhimpur |
-koramangala,koramangala
+koramangala,koramangala |
+Nagpur,Nagpur 
+Maharashtra,Maharashtra |
+Karnataka,Karnataka |
+Kerala,Kerala |
+Tamil Nadu,Tamil Nadu |
+Andhra Pradesh,Andhra Pradesh |
+Telangana,Telangana |
+Orissa,Orissa | Odishas |
+Chattisgarh,Chattisgarh |
+Bihar,Bihar |
+Jharkhand,Jharkhand |
+West Bengal,West Bengal |
+Madhya Pradesh,Madhya Pradesh |
+Gujarat,Gujarat |
+Rajasthan,Rajasthan |
+Haryana,Haryana |
+Punjab,Punjab |
+Uttarakhand,Uttarakhand |
+Himachal Pradesh,Himachal Pradesh |
+Jammu Kashmir,Jammu Kashmir |
+Sikkim,Sikkim |
+Meghalaya,Meghalaya |
+Assam,Assam |
+Arunachal Pradesh,Arunachal Pradesh |
+Nagaland,Nagaland |
+Tripura,Tripura |
+Mizoram,Mizoram |
+Manipur,Manipur |
+East Godavari,East Godavari |
+West Godavari,West Godavari |
+Sri Potti Sriramulu Nellore,Sri Potti Sriramulu Nellore |
+Prakasam,Prakasam |
+Krishna,Krishna |
+Banka,Banka |
+Bhojpur,Bhojpur |
+East Champaran,East Champaran |
+Kaimur,Kaimur |
+Khagaria,Khagaria |
+Nalanda,Nalanda |
+Rohtas,Rohtas |
+Saran,Saran |
+Vaishali,Vaishali |
+West Champaran,West Champaran |
+Aravalli,Aravalli |
+Banaskantha,Banaskantha |
+Botad,Botad |
+Chhota Udepur,Chhota Udepur |
+Dahod,Dahod |
+Dang,Dang |
+Devbhoomi Dwarka,Devbhoomi Dwarka |
+Gandhinagar,Gandhinagar |
+Gir Somnath,Gir Somnath |
+Junagadh,Junagadh |
+Kheda,Kheda |
+Kutch,Kutch |
+Mahisagar,Mahisagar |
+Mehsana,Mehsana |
+Morbi,Morbi |
+Narmada,Narmada |
+Panchmahal,Panchmahal |
+Sabarkantha,Sabarkantha |
+Surendranagar,Surendranagar |
+Tapi,Tapi |
+Ambala,Ambala |
+Hissar,Hissar |
+Jhajjar,Jhajjar |
+Kurukshetra,Kurukshetra |
+Mahendragarh,Mahendragarh |
+Nuh,Nuh |
+Chamba,Chamba |
+Hamirpur,Hamirpur |
+Kangra,Kangra |
+Kinnaur,Kinnaur |
+Kullu,Kullu |
+Lahaul and Spiti,Lahaul and Spiti |
+Sirmaur,Sirmaur |
+Ernakulam,Ernakulam |
+Idukki,Idukki |
+Wayanad,Wayanad |
+YSR Kadapa,YSR Kadapa |
+Tawang,Tawang |
+West Kameng,West Kameng |
+East Kameng,East Kameng |
+Papum Pare,Papum Pare |
+Kurung Kumey,Kurung Kumey |
+Kra Daadi,Kra Daadi |
+Lower Subansiri,Lower Subansiri |
+Upper Subansiri,Upper Subansiri |
+West Siang,West Siang |
+East Siang,East Siang |
+Siang,Siang |
+Upper Siang,Upper Siang |
+Lower Siang,Lower Siang |
+Lower Dibang Valley,Lower Dibang Valley |
+Dibang Valley,Dibang Valley |
+Anjaw,Anjaw |
+Lohit,Lohit |
+Namsai,Namsai |
+Changlang,Changlang |
+Tirap,Tirap |
+Longding,Longding |
+Baksa,Baksa |
+Biswanath,Biswanath |
+Bongaigaon,Bongaigaon |
+Cachar,Cachar |
+Charaideo,Charaideo |
+Chirang,Chirang |
+Darrang,Darrang |
+Dhemaji,Dhemaji |
+Golaghat,Golaghat |
+Hailakandi,Hailakandi |
+Hojai,Hojai |
+Kamrup Metropolitan,Kamrup Metropolitan |
+Kamrup,Kamrup |
+Karbi Anglong,Karbi Anglong |
+Kokrajhar,Kokrajhar |
+Majuli,Majuli |
+Morigaon,Morigaon |
+Dima Hasao,Dima Hasao |
+Sivasagar,Sivasagar |
+Sonitpur,Sonitpur |
+South Salmara-Mankachar,South Salmara-Mankachar |
+Udalguri,Udalguri |
+West Karbi Anglong,West Karbi Anglong |
+East Champaran,East Champaran |Motihari |
+Kaimur,Kaimur |Bhabua |
+Munger,Munger |Monghyr |
+Purnia,Purnia |Purnea |
+Balod,Balod |
+Baloda Bazar,Baloda Bazar |
+Balrampur,Balrampur |
+Bastar,Bastar |
+Bemetara,Bemetara |
+Bijapur,Bijapur |
+Dantewada,Dantewada |South Bastar |
+Gariyaband,Gariyaband |
+Janjgir-Champa,Janjgir-Champa |
+Jashpur,Jashpur |
+Kabirdham,Kabirdham |Kawardha |
+Kanker,Kanker |North Bastar |
+Kondagaon,Kondagaon |
+Korea,Korea |Koriya |
+Narayanpur,Narayanpur |
+Sukma,Sukma |
+Surajpur,Surajpur |
+Surguja,Surguja |
+Dadra & Nagar Haveli,Dadra & Nagar Haveli |
+Daman,Daman |
+Diu,Diu |
+Central Delhi,Central Delhi |
+East Delhi,East Delhi |
+North Delhi,North Delhi |
+North East  Delhi,North East  Delhi |
+North West  Delhi,North West  Delhi |
+Shahdara,Shahdara |
+South Delhi,South Delhi |
+South East Delhi,South East Delhi |
+South West  Delhi,South West  Delhi |
+West Delhi,West Delhi |
+North Goa,North Goa |
+South Goa,South Goa |
+Banaskantha,Banaskantha |Palanpur |
+Dangs,Dangs |Ahwa |
+Kachchh,Kachchh |
+Kheda,Kheda |Nadiad |
+Narmada,Narmada |Rajpipla |
+Panchmahal,Panchmahal |Godhra |
+Sabarkantha,Sabarkantha |Himmatnagar |
+Tapi,Tapi |Vyara |
+Mewat,Mewat |
+Lahaul,Lahaul |Spiti |
+Sirmaur,Sirmaur |Sirmour |
+Bandipore,Bandipore |
+Baramulla,Baramulla |
+Budgam,Budgam |
+Doda,Doda |
+Ganderbal,Ganderbal |
+Kargil,Kargil |
+Kishtwar,Kishtwar |
+Kulgam,Kulgam |
+Kupwara,Kupwara |
+Leh,Leh |
+Poonch,Poonch |
+Pulwama,Pulwama |
+Rajouri,Rajouri |
+Ramban,Ramban |
+Reasi,Reasi |
+Samba,Samba |
+Shopian,Shopian |
+Bokaro,Bokaro |
+East Singhbhum,East Singhbhum |
+Garhwa,Garhwa |
+Godda,Godda |
+Gumla,Gumla |
+Jamtara,Jamtara |
+Khunti,Khunti |
+Koderma,Koderma |
+Latehar,Latehar |
+Pakur,Pakur |
+Palamu,Palamu |
+Seraikela-Kharsawan,Seraikela-Kharsawan |
+West Singhbhum,West Singhbhum |
+Bagalkot,Bagalkot |
+Ballari,Ballari |Bellary |
+Belagavi,Belagavi |Belgaum |
+Bengaluru,Bangalore |Bengaluru |
+Bidar,Bidar |
+Chamarajanagar,Chamarajanagar |
+Chikballapur,Chikballapur |
+Chikkamagaluru,Chikkamagaluru |Chikmagalur |
+Chitradurga,Chitradurga |
+Dakshina Kannada,Dakshina Kannada |
+Davangere,Davangere |
+Dharwad,Dharwad |
+Gadag,Gadag |
+Hassan,Hassan |
+Haveri,Haveri |
+Kalaburagi,Kalaburagi |Gulbarga |
+Kodagu,Kodagu |
+Koppal,Koppal |
+Mysuru,Mysuru |Mysore |
+Raichur,Raichur |
+Ramanagara,Ramanagara |
+Shivamogga,Shivamogga |Shimoga |
+Tumakuru,Tumakuru |Tumkur |
+Uttara Kannada,Uttara Kannada |Karwar |
+Vijayapura,Vijayapura |Bijapur |
+Agatti,Agatti |
+Amini,Amini |
+Androth,Androth |
+Bithra,Bithra |
+Chethlath,Chethlath |
+Kavaratti,Kavaratti |
+Kadmath,Kadmath |
+Kalpeni,Kalpeni |
+Kilthan,Kilthan |
+Minicoy,Minicoy |
+Agar Malwa,Agar Malwa |
+Anuppur,Anuppur |
+Ashoknagar,Ashoknagar |
+Barwani,Barwani |
+Betul,Betul |
+Bhind,Bhind |
+Burhanpur,Burhanpur |
+Chhatarpur,Chhatarpur |
+Chhindwara,Chhindwara |
+Damoh,Damoh |
+Datia,Datia |
+Dewas,Dewas |
+Dhar,Dhar |
+Dindori,Dindori |
+Guna,Guna |
+Harda,Harda |
+Hoshangabad,Hoshangabad |
+Jhabua,Jhabua |
+Katni,Katni |
+Khandwa,Khandwa |
+Khargone,Khargone |
+Narsinghpur,Narsinghpur |
+Seoni,Seoni |
+Bhandara,Bhandara |
+Buldhana,Buldhana |
+Chandrapur,Chandrapur |
+Gadchiroli,Gadchiroli |
+Gondia,Gondia |
+Hingoli,Hingoli |
+Jalgaon,Jalgaon |
+Jalna,Jalna |
+Kolhapur,Kolhapur |
+Mumbai City,Mumbai City |
+Mumbai Suburban,Mumbai Suburban |
+Raigad,Raigad |
+Sindhudurg,Sindhudurg |
+Bishnupur,Bishnupur |
+Chandel,Chandel |
+Churachandpur,Churachandpur |
+Imphal East,Imphal East |
+Imphal West,Imphal West |
+Jiribam,Jiribam |
+Kakching,Kakching |
+Kamjong,Kamjong |
+Kangpokpi,Kangpokpi |
+Noney,Noney |
+Pherzawl,Pherzawl |
+Senapati,Senapati |
+Tamenglong,Tamenglong |
+Tengnoupal,Tengnoupal |
+Ukhrul,Ukhrul |
+East Garo Hills,East Garo Hills |
+East Jaintia Hills,East Jaintia Hills |
+East Khasi Hills,East Khasi Hills |
+North Garo Hills,North Garo Hills |
+Ri Bhoi,Ri Bhoi |
+South Garo Hills,South Garo Hills |
+South West Garo Hills ,South West Garo Hills  |
+South West Khasi Hills,South West Khasi Hills |
+West Garo Hills,West Garo Hills |
+West Jaintia Hills,West Jaintia Hills |
+West Khasi Hills,West Khasi Hills |
+Champhai,Champhai |
+Kolasib,Kolasib |
+Lawngtlai,Lawngtlai |
+Mamit,Mamit |
+Serchhip,Serchhip |
+Kiphire,Kiphire |
+Longleng,Longleng |
+Mon,Mon |
+Peren,Peren |
+Phek,Phek |
+Angul,Angul |
+Balasore,Balasore |
+Boudh,Boudh |
+Deogarh,Deogarh |
+Gajapati,Gajapati |
+Ganjam,Ganjam |
+Jagatsinghapur,Jagatsinghapur |
+Jajpur,Jajpur |
+Kalahandi,Kalahandi |
+Kandhamal,Kandhamal |
+Kendujhar,Kendujhar |Keonjhar |
+Khordha,Khordha |
+Koraput,Koraput |
+Mayurbhanj,Mayurbhanj |
+Nabarangpur,Nabarangpur |
+Nayagarh,Nayagarh |
+Nuapada,Nuapada |
+Fatehgarh Sahib,Fatehgarh Sahib |
+Ferozepur,Ferozepur |
+Nawanshahr,Nawanshahr |Shahid Bhagat Singh Nagar |
+Sahibzada Ajit Singh Nagar,Sahibzada Ajit Singh Nagar |Mohali |
+Banswara,Banswara |
+Baran,Baran |
+Bundi,Bundi |
+Chittorgarh,Chittorgarh |
+Churu,Churu |
+Dausa,Dausa |
+Dholpur,Dholpur |
+Dungarpur,Dungarpur |
+Hanumangarh,Hanumangarh |
+Jaisalmer,Jaisalmer |
+Jalore,Jalore |
+Jhalawar,Jhalawar |
+Jhunjhunu,Jhunjhunu |
+Karauli,Karauli |
+Kota,Kota |
+Nagaur,Nagaur |
+Sri Ganganagar,Sri Ganganagar |
+East Sikkim,East Sikkim |
+North Sikkim,North Sikkim |
+South Sikkim,South Sikkim |
+West Sikkim,West Sikkim |
+Ariyalur,Ariyalur |
+Cuddalore,Cuddalore |
+Dharmapuri,Dharmapuri |
+Dindigul,Dindigul |
+Kanchipuram,Kanchipuram |
+Kanyakumari,Kanyakumari |
+Krishnagiri,Krishnagiri |
+Nilgiris,Nilgiris |
+Theni,Theni |
+Thoothukudi,Thoothukudi |Tuticorin |
+Tiruvallur,Tiruvallur |
+Tiruvarur,Tiruvarur |
+Bhadradri Kothagudem,Bhadradri Kothagudem |
+Jayashankar Bhoopalpally,Jayashankar Bhoopalpally |
+Jogulamba Gadwal,Jogulamba Gadwal |
+Komaram Bheem Asifabad,Komaram Bheem Asifabad |
+Mahabubabad,Mahabubabad |
+Mahabubnagar,Mahabubnagar |
+Medchal,Medchal |
+Nalgonda,Nalgonda |
+Peddapalli,Peddapalli |
+Rajanna Sircilla,Rajanna Sircilla |
+Rangareddy,Rangareddy |
+Warangal,Warangal |
+Yadadri Bhuvanagiri,Yadadri Bhuvanagiri |
+Dhalai,Dhalai |
+Gomati,Gomati |
+North Tripura,North Tripura |
+Sepahijala,Sepahijala |
+South Tripura,South Tripura |
+Unakoti,Unakoti |
+West Tripura,West Tripura |
+Almora,Almora |
+Chamoli,Chamoli |
+Champawat,Champawat |
+Haridwar,Haridwar |
+Pauri Garhwal,Pauri Garhwal |
+Rudraprayag,Rudraprayag |
+Tehri Garhwal,Tehri Garhwal |
+Udham Singh Nagar,Udham Singh Nagar |
+Uttarkashi,Uttarkashi |
+Ambedkar Nagar,Ambedkar Nagar |
+Amethi,Amethi |Chatrapati Sahuji Mahraj Nagar |
+Amroha,Amroha |J.P. Nagar |
+Auraiya,Auraiya |
+Baghpat,Baghpat |
+Ballia,Ballia |
+Balrampur,Balrampur |
+Banda,Banda |
+Barabanki,Barabanki |
+Bareilly,Bareilly |
+Basti,Basti |
+Bhadohi,Bhadohi |
+Bijnor,Bijnor |
+Budaun,Budaun |
+Bulandshahr,Bulandshahr |
+Chandauli,Chandauli |
+Chitrakoot,Chitrakoot |
+Deoria,Deoria |
+Etah,Etah |
+Faizabad,Faizabad |
+Farrukhabad,Farrukhabad |
+Fatehpur,Fatehpur |
+Gautam Buddha Nagar,Gautam Buddha Nagar |
+Ghazipur,Ghazipur |
+Gonda,Gonda |
+Gorakhpur,Gorakhpur |
+Hapur,Hapur |Panchsheel Nagar |
+Hathras,Hathras |
+Jalaun,Jalaun |
+Jaunpur,Jaunpur |
+Kannauj,Kannauj |
+Kanpur Dehat,Kanpur Dehat |
+Kanpur Nagar,Kanpur Nagar |
+Kanshiram Nagar,Kanshiram Nagar |Kasganj |
+Kaushambi,Kaushambi |
+Kushinagar,Kushinagar |Padrauna |
+Lakhimpur,Lakhimpur |
+Mahoba,Mahoba |
+Mainpuri,Mainpuri |
+Mau,Mau |
+Mirzapur,Mirzapur |
+Muzaffarnagar,Muzaffarnagar |
+RaeBareli,RaeBareli |
+Sambhal,Sambhal | Bhim Nagar |
+Sant Kabir Nagar,Sant Kabir Nagar |
+Shamali,Shamali | Prabuddh Nagar |
+Shravasti,Shravasti |
+Siddharth Nagar,Siddharth Nagar |
+Sonbhadra,Sonbhadra |
+Birbhum,Birbhum |
+Burdwan,Burdwan |Bardhaman |
+Dakshin Dinajpur,Dakshin Dinajpur |
+Darjeeling,Darjeeling |
+Hooghly,Hooghly |
+Howrah,Howrah |
+Nadia,Nadia |
+North 24 Parganas,North 24 Parganas |
+Paschim Medinipur,Paschim Medinipur |
+Purba Medinipur,Purba Medinipur |
+South 24 Parganas,South 24 Parganas |
+Uttar Dinajpur,Uttar Dinajpur |
